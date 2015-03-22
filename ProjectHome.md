@@ -1,0 +1,1 @@
+Sudoku 100 for android base on funny-sudoku-android (http://code.google.com/p/funny-sudoku-android/) and andoku v1.3.2(http://code.google.com/p/andoku/) and will add more features.
